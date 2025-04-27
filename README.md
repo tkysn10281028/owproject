@@ -231,15 +231,21 @@
 
 ### ネットワーク構成
 
-☞ ネットワーク構成図を参照(Google SpreadSheet にて作成予定)
+☞ ネットワーク構成図を参照
+
+> https://docs.google.com/spreadsheets/d/e/2PACX-1vS-rz74XlmXo57PyfhcdREZIKWafZRA-_v86IgWWiPtTaneV4EKTS-bm-UtdVQaZ_Znmu3bRLl5k6-L/pubhtml
 
 ### 画面遷移図
 
-☞ 画面遷移図を参照(Google SpreadSheet にて作成予定)
+☞ 画面遷移図を参照
+
+> https://docs.google.com/spreadsheets/d/e/2PACX-1vTDLjFP6GW8Kv7IC0RURvAAciZW5d78MyxW8i-IJf68Gcp2dm8SaGPsuccikaJcOt5qYbYSCp3dITmm/pubhtml
 
 ### コーディング規約
 
-☞ コーディング規約を参照(Google SpreadSheet にて作成予定)
+☞ コーディング規約を参照
+
+> https://docs.google.com/spreadsheets/d/e/2PACX-1vRI2pHM7QnzLR4Me0PnVMnO8pjnJ1vgdpXaSaz8L2TqBVJcMA_idGulMFaxihFJugv_mWm4st11oQOM/pubhtml
 
 # 各実装
 
