@@ -243,9 +243,7 @@
 
 ### コーディング規約
 
-☞ コーディング規約を参照
-
-> https://docs.google.com/spreadsheets/d/e/2PACX-1vRI2pHM7QnzLR4Me0PnVMnO8pjnJ1vgdpXaSaz8L2TqBVJcMA_idGulMFaxihFJugv_mWm4st11oQOM/pubhtml
+☞ コーディング規約.md を参照
 
 # 各実装
 
